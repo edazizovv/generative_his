@@ -8,7 +8,7 @@ A naive channel content generation
 
 ## STATUS:
 
-<TO BE FILLED>
+Decomissioned
 
 ## MIRO
 
